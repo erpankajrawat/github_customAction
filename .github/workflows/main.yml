@@ -22,4 +22,4 @@ jobs:
 
       - uses: ./print-message@main
         with:
-          message: "Hello, World"s
+          message: "Hello, World"
